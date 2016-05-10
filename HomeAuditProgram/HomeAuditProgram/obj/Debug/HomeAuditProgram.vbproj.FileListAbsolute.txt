@@ -1,0 +1,10 @@
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\bin\Debug\HomeAuditProgram.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\bin\Debug\HomeAuditProgram.exe
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\bin\Debug\HomeAuditProgram.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\bin\Debug\HomeAuditProgram.xml
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\obj\Debug\HomeAuditProgram.Form1.resources
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\obj\Debug\HomeAuditProgram.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\obj\Debug\HomeAuditProgram.vbproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\obj\Debug\HomeAuditProgram.exe
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\obj\Debug\HomeAuditProgram.xml
+c:\users\lucas\documents\visual studio 2013\Projects\HomeAuditProgram\HomeAuditProgram\obj\Debug\HomeAuditProgram.pdb
